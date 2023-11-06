@@ -1,0 +1,10 @@
+.normalPage{
+    background-color: white;
+}
+.normalPage.dark{
+    background-color: black;
+}
+.normalPage.dark h3{
+    background-color: black;
+    color: white;
+}
